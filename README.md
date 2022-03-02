@@ -12,6 +12,5 @@ represents current estimate of the value function and arrows show
 which of the neighboring cells have maximal value function. The agent
 is represented by a yellow circle.
 <div align="center">
-<img src="https://github.com/MichaelKonobeev/rljs/raw/master/imgs/gridworld.png"
-width="484" height="486">
+<img src="./assets/preview.gif" width="596" height="486">
 </div>
